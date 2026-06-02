@@ -1,5 +1,5 @@
 ![Logo](https://github.com/smth-ext/.github/blob/main/profile/smth_banner.png?raw=true)
-a team of 2 guys that want make opensource external scripting utility
+a team of 2 guys that want make opensource things
 
 ##
 <p align="left">
